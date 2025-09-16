@@ -1,0 +1,9 @@
+{
+  "static_path": ".",
+  "app_id": 54138643,
+  "endpoints": {
+    "mobile": "https://github.com/pervushiney-source/hdj06/blob/main/index.html",
+    "web": "https://github.com/pervushiney-source/hdj06/blob/main/index.html",
+    "mvk": "https://github.com/pervushiney-source/hdj06/blob/main/index.html"
+  }
+}
